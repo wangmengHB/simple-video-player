@@ -1,0 +1,19 @@
+{
+  "name": "simple-video-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangmengHB/simple-video-player.git"
+  },
+  "author": "Meng Wang <wangmeng_hb@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangmengHB/simple-video-player/issues"
+  },
+  "homepage": "https://github.com/wangmengHB/simple-video-player#readme"
+}
